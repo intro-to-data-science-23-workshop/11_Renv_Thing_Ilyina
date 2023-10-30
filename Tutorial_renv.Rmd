@@ -88,9 +88,9 @@ For the purpose of this tutorial, we would be utilizing titanic_test.R file, whi
 
 ```{r}
 # Install packages if needed
-if(!require(dplyr, ggplot2)){
-    install.packages(c("dplyr", "ggplot2"))
-}
+#if(!require(dplyr, ggplot2)){
+#    install.packages(c("dplyr", "ggplot2"))
+#}
 
 # Load necessary libraries
 library(dplyr)
